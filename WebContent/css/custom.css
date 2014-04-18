@@ -1,0 +1,36 @@
+.indicator{
+            position:absolute;
+            font-size:9px;
+            width:10px;
+            height:10px;
+            display:none;
+            color:red;
+        }
+.targetSelected{
+	background:#3366cc;
+}
+.over{
+            background:#FBEC88;
+        }
+
+.left {
+	width: 120px;
+	float: right;
+}
+
+.left table {
+	background: #E0ECFF;
+}
+
+.left td {
+	background: #eee;
+}
+
+.item {
+	text-align: center;
+	border: 1px solid #499B33;
+	background: #fafafa;
+	color: #444;
+	width: 170px;
+	margin:2px;
+}
